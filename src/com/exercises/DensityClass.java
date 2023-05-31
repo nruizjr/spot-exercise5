@@ -14,6 +14,7 @@ public class DensityClass {
 		startMenu();
 	}
 	
+	//Starts the menu
 	private static void startMenu() {
 		try (Scanner input = new Scanner(System.in)) {
 			boolean validOption = false;
